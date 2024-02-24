@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "cstdlib": "c",
+            "delay.h": "c",
+            "vector": "cpp",
+            "inv_mpu.h": "c",
+            "inv_mpu_dmp_motion_driver.h": "c",
+            "i2c_func_general.h": "c",
+            "stm32f10x.h": "c"
+        }
+    },
+    "extensions": {}
+}
